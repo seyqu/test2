@@ -1,0 +1,8 @@
+{
+  "telegram_token": "REPLACE_WITH_TELEGRAM_TOKEN",
+  "solana_ws_url": "wss://api.mainnet-beta.solana.com/",
+  "risk_threshold": 0.72,
+  "holder_subscriptions": 10,
+  "lp_subscriptions": 2,
+  "log_depth": 50
+}
